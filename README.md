@@ -11,4 +11,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus enim arcu, dign
  #### sub sub sub section
  
  <img src="./bluescreen.jpg" alt="Blue Screen"> 
+
 <img src="http://www.rona.ca/documents/ronaResponsive/SpecialPages/Projects/assets/images/template-diy/sandbox-with-lid/Diy-sandbox-with-lid-facebook.jpg" alt="sand">
+ 
+ ## AMONG US??
+ <img src = "https://assets.puzzlefactory.pl/puzzle/369/033/original.jpg" alt = "sussY">
+ 
+ #FAUX!
+  <img src = "https://images.radio-canada.ca/v1/ici-info/16x9/norman-thavaud-youtubeur-.jpg" alt = "norman">
