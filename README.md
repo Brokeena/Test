@@ -19,3 +19,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus enim arcu, dign
  
  #FAUX!
   <img src = "https://images.radio-canada.ca/v1/ici-info/16x9/norman-thavaud-youtubeur-.jpg" alt = "norman">
+<img src = "https://www.gala.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgal.2F2020.2F07.2F15.2F671444ee-db00-470a-8bfa-2f8e6e060c07.2Ejpeg/1054x697/quality/80/xavier-dupont-de-ligonnes.jpeg" alt = "mec cool">
