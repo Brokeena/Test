@@ -21,5 +21,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus enim arcu, dign
  ###### FAUX!
   <img src = "https://images.radio-canada.ca/v1/ici-info/16x9/norman-thavaud-youtubeur-.jpg" alt = "norman">
   
- ####### POURQUOI
+  print ("POURQUOI")
   <img src = "https://images.bfmtv.com/-q18vzVxA2GIk-9453KA4U1vrwc=/2x1:1250x703/1248x0/images/Squeezie-et-Cyprien-1236641.jpg" alt = "grrr">
