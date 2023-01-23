@@ -1,3 +1,3 @@
-# On détest Marius de manière collective
+# On déteste Marius de manière collective
 
-## Liste d'insutle envers Marius
+## Liste d'insulte envers Marius
