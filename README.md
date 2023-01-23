@@ -1,6 +1,8 @@
 
 # On déteste Marius de manière collective
 
+<img src="https://pbs.twimg.com/media/FadDR4uWQAAMlq4?format=jpg&name=small" alt="911">
+
 ## Liste d'insulte envers Marius
 
 <img src="https://walpaperset.com/g/full/e/6/j/2890.jpg" alt="AMOGUS"> 
