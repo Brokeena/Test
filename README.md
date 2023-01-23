@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus enim arcu, dign
  
  #### sub sub sub section
  
- <img src="./bluescreen.jpeg" alt="Blue Screen"> 
+ <img src="./bluescreen.jpg" alt="Blue Screen"> 
